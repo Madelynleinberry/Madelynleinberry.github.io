@@ -1,0 +1,24 @@
+body {background-color: rgb(235, 196, 235)}
+
+#background {
+    background-image: url(background.jpg);
+}
+
+#ski {width: 200px;
+        height: 150px;
+    }
+
+#sis {width: 150px;
+        height: 200px;
+
+}
+
+#cupcake {width: 150px;
+            height: 200px;
+
+}
+
+#cake {width: 150px;
+        height: 200px;
+
+}
